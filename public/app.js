@@ -17,10 +17,9 @@ var createCat = function(cat) {
 
   var catLiPhoto = document.createElement("li");
 
-  var img = document.createElement("img");
-  catLiPhoto.innerText = cat.photo;
-  catLiPhoto.innerHTML = "<img width=500 src="cat.photo">";
-  catLiPhoto.appendChild(img);
+  var image = new Image(500);
+  image.src = cat.photo;
+  catLiPhoto.appendChild(image);
 
   catUl.appendChild(catLiName);
   catUl.appendChild(catLiFood);

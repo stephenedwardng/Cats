@@ -1,3 +1,9 @@
+body {
+  background-color: #ffaa00;
+  font-family: "Arial";
+  font-size: 60px;
+}
+
 .logo {
   width: 50px;
   height: 50px;

@@ -1,7 +1,10 @@
 var catArray = [
-  { name: "Top Cat", food: "Chum", photo: "http://66.media.tumblr.com/d1f01bbe0150fda0c40d2151c5eaeac8/tumblr_odlqqskjj61v9cejwo1_400.jpg"},
-  { name: "Benny the Ball", food: "Pal", photo: "http://66.media.tumblr.com/d1f01bbe0150fda0c40d2151c5eaeac8/tumblr_odlqqskjj61v9cejwo1_400.jpg"},
-  { name: "Choo-choo", food: "Officer Dibble", photo: "http://66.media.tumblr.com/d1f01bbe0150fda0c40d2151c5eaeac8/tumblr_odlqqskjj61v9cejwo1_400.jpg"}
+  { name: "Boba", food: "Sock fluff", photo: "http://i.imgur.com/4ZR55wW.jpg"},
+  { name: "Barnaby", food: "Tuna", photo: "http://i.imgur.com/t8GZ9Ob.png"},
+  { name: "Max", food: "Whiskas Temptations", photo: "http://i.imgur.com/kSx427l.jpg"},
+  { name: "Top Cat", food: "Chum", photo: "http://i.imgur.com/uwxyY0v.png"},
+  { name: "Benny the Ball", food: "Pal", photo: "http://i.imgur.com/xa1qZNb.png"},
+  { name: "Choo-choo", food: "Officer Dibble", photo: "https://i.redd.it/y6imr5piyvbz.jpg"}
 ];
 
 
